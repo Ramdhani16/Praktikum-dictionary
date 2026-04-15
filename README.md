@@ -1,5 +1,4 @@
 NAMA:M.ASROR RAMDHANI
-
 NIM:22250019
 
 
@@ -30,4 +29,4 @@ Program ini menggunakan kombinasi struktur data sebagai berikut:
 2. Clone repository ini atau unduh file `.py` terkait.
 3. Jalankan program melalui terminal/CMD:
    ```bash
-   python Praktikum-dictionary.py
+   python main.py
